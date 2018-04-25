@@ -14831,9 +14831,9 @@ su límite de capacidad
 <XPD:REF name="Head">/lXBED6cc0yFT6j3BY1HcAAA</XPD:REF>
 <XPD:REF name="Tail">/lXBED6cc0yFT6j3BY1HcAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="PfK2BQ4nFkawDMKZP9/jigAA">
-<XPD:ATTR name="Alpha" type="real">1,5707953267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">33</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">6 : obtenerPersonaje()</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">6</XPD:ATTR>
 <XPD:REF name="Model">xvGm+PebOUCVMWjURn5jSAAA</XPD:REF>
 <XPD:REF name="HostEdge">aSFguUEwikaxYVd6n/NrVAAA</XPD:REF>
 </XPD:OBJ>
@@ -14937,7 +14937,6 @@ su límite de capacidad
 <XPD:REF name="Receiver">AFVrIRE2YEOqBQlwec5lawAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="kajeJ6dQ70Sq+50iL2msMwAA">
 <XPD:REF name="Stimulus">xvGm+PebOUCVMWjURn5jSAAA</XPD:REF>
-<XPD:REF name="Operation">Q3eVRRzt1ESD2NgT3qNYegAA</XPD:REF>
 </XPD:OBJ>
 <XPD:REF name="InteractionInstanceSet">5twuaKtxBkasB4LVutCsPAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -17502,16 +17501,10 @@ su límite de capacidad
 <XPD:REF name="ClientDependencies[0]">kQE9g5x0wUm08XJU09v+WgAA</XPD:REF>
 <XPD:ATTR name="#Generalizations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Generalizations[0]">r850GWKBB0idrUkNtV6rRwAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="v1gIuStrA0G8sCgqGg7jtAAA">
 <XPD:ATTR name="Name" type="string">desligar</XPD:ATTR>
 <XPD:REF name="Owner">sP6JLtCv/k6GEAS3G614jwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="Q3eVRRzt1ESD2NgT3qNYegAA">
-<XPD:ATTR name="Name" type="string">obtenerPersonaje</XPD:ATTR>
-<XPD:REF name="Owner">sP6JLtCv/k6GEAS3G614jwAA</XPD:REF>
-<XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
-<XPD:REF name="CallActions[0]">kajeJ6dQ70Sq+50iL2msMwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">VMmFzItOHUyxS0Z0TQlicgAA</XPD:REF>
