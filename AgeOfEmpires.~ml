@@ -14452,24 +14452,6 @@ su límite de capacidad
 <XPD:ATTR name="Name" type="string">Atacar enemigo</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Permite atacar a una unidad enemiga presente en una celda adyacente</XPD:ATTR>
 <XPD:REF name="Namespace">10nbU/fU50q7Z56GEbsvdwAA</XPD:REF>
-<XPD:ATTR name="#OwnedCollaborationInstanceSets" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="OwnedCollaborationInstanceSets[0]" type="UMLCollaborationInstanceSet" guid="Jt0HP4HZakKO+r0sLjkiCQAA">
-<XPD:ATTR name="Name" type="string">CollaborationInstanceSet1</XPD:ATTR>
-<XPD:REF name="RepresentedClassifier">IWnAF46l/kGxfoC9ji1ElgAA</XPD:REF>
-<XPD:ATTR name="#InteractionInstanceSets" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="InteractionInstanceSets[0]" type="UMLInteractionInstanceSet" guid="Huk654PAIEqXy9TWSyCMVgAA">
-<XPD:ATTR name="Name" type="string">InteractionInstanceSet1</XPD:ATTR>
-<XPD:REF name="Context">Jt0HP4HZakKO+r0sLjkiCQAA</XPD:REF>
-<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="OwnedDiagrams[0]" type="UMLSequenceDiagram" guid="loSlZLFoPEK7nstIKYZ89AAA">
-<XPD:ATTR name="Name" type="string">EP</XPD:ATTR>
-<XPD:REF name="DiagramOwner">Huk654PAIEqXy9TWSyCMVgAA</XPD:REF>
-<XPD:OBJ name="DiagramView" type="UMLSequenceDiagramView" guid="Pe4Na6ouwEejrFQI7RAY0AAA">
-<XPD:REF name="Diagram">loSlZLFoPEK7nstIKYZ89AAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-</XPD:OBJ>
-</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[2]" type="UMLUseCase" guid="5B8bMOYE7EqVzKNKSavoMQAA">
 <XPD:ATTR name="Name" type="string">Listar civilizaciones</XPD:ATTR>
