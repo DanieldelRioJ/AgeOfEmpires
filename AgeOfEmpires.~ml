@@ -28388,9 +28388,9 @@ a desligar
 <XPD:REF name="Head">6sb7vvUcB0WXZX5Sv4UyfgAA</XPD:REF>
 <XPD:REF name="Tail">XzpYFmrqXkaerENtGbp6RAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="sVx/E/QetU69xMDlEzMggAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,21109326005204</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">28,6356421265527</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">general</XPD:ATTR>
 <XPD:REF name="Model">2ewSCFte5EiSCZ7OBEBAqAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="gCbSBNO7ikKn5IX6CJMnpgAA">
@@ -29894,6 +29894,7 @@ a desligar
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[46]" type="UMLAssociation" guid="2ewSCFte5EiSCZ7OBEBAqAAA">
+<XPD:ATTR name="Name" type="string">general</XPD:ATTR>
 <XPD:REF name="Namespace">hfEgHts2jUCwFg0HvI07JwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">db67CSEw3EOzFM57KGldOwAA</XPD:REF>
@@ -42027,7 +42028,7 @@ Mediador (para celda)
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">802,461;757,461;757,401</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">802,461;768,461;768,401</XPD:ATTR>
 <XPD:REF name="Model">9VXTWirqd0CWEl2opdiMZAAA</XPD:REF>
 <XPD:REF name="Head">hsH3yae1XEyDXW/qryzkNwAA</XPD:REF>
 <XPD:REF name="Tail">PtJsMJ16AEiMgNh9Jv2iRQAA</XPD:REF>
