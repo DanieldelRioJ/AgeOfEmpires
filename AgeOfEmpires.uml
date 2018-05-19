@@ -13096,15 +13096,15 @@ su límite de capacidad
 <XPD:OBJ name="OwnedViews[5]" type="UMLSeqObjectView" guid="vrzR9x1u2kut7DxUsM6NZwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">712</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">700</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">28</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">97</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">405</XPD:ATTR>
 <XPD:REF name="Model">bV1Rxo8LdkasN6WworvUygAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="MmKh/FhUokWCQ1NMZX5BSAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="0C6mzxxvMEql1MTW+0OllgAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : Mapa</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Civilizacion : Mapa</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="kw2GDV0Yik6qBEUy0PaNMwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -13367,7 +13367,7 @@ su límite de capacidad
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">471,376;747,376</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">471,376;748,376</XPD:ATTR>
 <XPD:REF name="Model">zH1yLVnLYEuWnYJFtn2bJwAA</XPD:REF>
 <XPD:REF name="Head">hNRMSje7f02ys+vp/w/urwAA</XPD:REF>
 <XPD:REF name="Tail">iRChsIXx7ESPRdHx8WhaMwAA</XPD:REF>
@@ -13394,7 +13394,7 @@ su límite de capacidad
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="Bb4EZBJ3skW+ySZYk0uaEQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">747</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">748</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">376</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -13718,6 +13718,7 @@ su límite de capacidad
 <XPD:REF name="ReceivingStimuli[0]">kwm+PrWICkWEC84v59bGDgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[5]" type="UMLObject" guid="bV1Rxo8LdkasN6WworvUygAA">
+<XPD:ATTR name="Name" type="string">Civilizacion</XPD:ATTR>
 <XPD:REF name="Classifier">iDTsWgamcEWmS5qDGvbzZwAA</XPD:REF>
 <XPD:REF name="CollaborationInstanceSet">+c83aZdYyUqk2pi5gimYwwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
