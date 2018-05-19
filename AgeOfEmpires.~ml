@@ -44209,7 +44209,8 @@ Mediador (para celda)
 <XPD:OBJ name="OwnedViews[71]" type="UMLRealizationView" guid="VtoD1IXEFEKJoH11fc+xQgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">777,294;760,64;464,56;465,76</XPD:ATTR>
+<XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">760,294;760,40;464,40;464,76</XPD:ATTR>
 <XPD:REF name="Model">v3gDG3BAh0G1GTZeKfnLXwAA</XPD:REF>
 <XPD:REF name="Head">yuDJI/R3oEGtDiYjDU13eQAA</XPD:REF>
 <XPD:REF name="Tail">hsH3yae1XEyDXW/qryzkNwAA</XPD:REF>
