@@ -40568,7 +40568,7 @@ ataque Torre
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">1064</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">28</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">115</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">125</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">158</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">Patrones Aplicados:
 DAO
@@ -40578,8 +40578,8 @@ Composite
 Factory method
 
 Intentados:
-Iterator
-Mediador
+Iterator (para grupo)
+Mediador (para celda)
 </XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[61]" type="UMLAssociationView" guid="U9yNV9nZQ0ukMpFy2Zc3swAA">

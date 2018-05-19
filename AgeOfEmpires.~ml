@@ -38488,8 +38488,8 @@ ataque Torre
 <XPD:REF name="Model">XYO4rXMTMEK8bmsgK9yd8QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="TailMultiplicityLabel" type="EdgeLabelView" guid="P+uKrw94yUGfka8czHAP7wAA">
-<XPD:ATTR name="Alpha" type="real">-0,523598775598299</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">25</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,643500146112462</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">20</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">0..*</XPD:ATTR>
 <XPD:REF name="Model">4sPak5Z+x06I/EBdBqZxFAAA</XPD:REF>
@@ -38965,8 +38965,8 @@ ataque Torre
 <XPD:REF name="Model">K9n7r/uHTEmlml/9rGFXoQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="AhD+3Rv/KkKkDKoDyVdVhwAA">
-<XPD:ATTR name="Alpha" type="real">0,390607459699641</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">18,3847763108502</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,21457666866807</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">45,8802789878178</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;instantiate&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">K9n7r/uHTEmlml/9rGFXoQAA</XPD:REF>
 </XPD:OBJ>
@@ -39378,7 +39378,7 @@ ataque Torre
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">724,564;472,564;472,498</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">724,564;460,564;460,498</XPD:ATTR>
 <XPD:REF name="Model">ClKAvA0vPEe3B5xOMqi3jgAA</XPD:REF>
 <XPD:REF name="Head">LM/6EtoQY0CH2RtLUuUDoAAA</XPD:REF>
 <XPD:REF name="Tail">2m4hbz6jYkWGuNTl2TvqSwAA</XPD:REF>
@@ -39415,8 +39415,8 @@ ataque Torre
 <XPD:REF name="Model">VMmFzItOHUyxS0Z0TQlicgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="HeadMultiplicityLabel" type="EdgeLabelView" guid="IclqjekHnEmie85yBOSagQAA">
-<XPD:ATTR name="Alpha" type="real">1,00913612960821</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">26,4196896272458</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,825377082392009</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">17,6918060129541</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epHead</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">1..*</XPD:ATTR>
 <XPD:REF name="Model">iSS5IerhYkmwT+nzHtKBHgAA</XPD:REF>
