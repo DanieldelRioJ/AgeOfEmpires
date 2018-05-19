@@ -38752,12 +38752,13 @@ ataque Torre
 <XPD:ATTR name="Left" type="integer">1080</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">32</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">115</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">128</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">143</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">Patrones Aplicados:
 DAO
 Strategy
 Singleton
 Composite
+Factory method
 
 Intentados:
 Iterator
