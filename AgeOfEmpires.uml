@@ -28388,9 +28388,9 @@ a desligar
 <XPD:REF name="Head">6sb7vvUcB0WXZX5Sv4UyfgAA</XPD:REF>
 <XPD:REF name="Tail">XzpYFmrqXkaerENtGbp6RAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="sVx/E/QetU69xMDlEzMggAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,21109326005204</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">28,6356421265527</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">general</XPD:ATTR>
 <XPD:REF name="Model">2ewSCFte5EiSCZ7OBEBAqAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="gCbSBNO7ikKn5IX6CJMnpgAA">
@@ -29894,6 +29894,7 @@ a desligar
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[46]" type="UMLAssociation" guid="2ewSCFte5EiSCZ7OBEBAqAAA">
+<XPD:ATTR name="Name" type="string">general</XPD:ATTR>
 <XPD:REF name="Namespace">hfEgHts2jUCwFg0HvI07JwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">db67CSEw3EOzFM57KGldOwAA</XPD:REF>
@@ -41714,7 +41715,7 @@ Mediador (para celda)
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">512,610;512,236;572,236;572,203</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">512,610;512,236;572,236;572,216</XPD:ATTR>
 <XPD:REF name="Model">Vn6wn4vvYkySVMu7owdfwAAA</XPD:REF>
 <XPD:REF name="Head">V7/FBP70lUCVbsuzu/qiFQAA</XPD:REF>
 <XPD:REF name="Tail">HM35miX0PEinVIsac0xM/QAA</XPD:REF>
@@ -42027,7 +42028,7 @@ Mediador (para celda)
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">802,461;757,461;757,401</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">802,461;768,461;768,401</XPD:ATTR>
 <XPD:REF name="Model">9VXTWirqd0CWEl2opdiMZAAA</XPD:REF>
 <XPD:REF name="Head">hsH3yae1XEyDXW/qryzkNwAA</XPD:REF>
 <XPD:REF name="Tail">PtJsMJ16AEiMgNh9Jv2iRQAA</XPD:REF>
@@ -43912,7 +43913,7 @@ Mediador (para celda)
 <XPD:ATTR name="Left" type="integer">560</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">96</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">91</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">108</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">121</XPD:ATTR>
 <XPD:REF name="Model">JpWx8Ryuo0esG63ojOg6bAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="e673dQ18CUmyMd1ReiSdOAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="3uNHNYRFgkiY54Gs1/UOaAAA">
@@ -43920,7 +43921,7 @@ Mediador (para celda)
 <XPD:ATTR name="Text" type="string">Mediador</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="K/Ic+iR5Nka/t4T0Rlz6HQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;interface&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="gB4/3lw7SEK8ImNo0fhdlAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -43941,7 +43942,7 @@ Mediador (para celda)
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">600,278;600,203</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">600,278;600,216</XPD:ATTR>
 <XPD:REF name="Model">YeHVODTOjEyF7u7fH6RwbAAA</XPD:REF>
 <XPD:REF name="Head">V7/FBP70lUCVbsuzu/qiFQAA</XPD:REF>
 <XPD:REF name="Tail">1SDYZ245B06JkVSR9fG31AAA</XPD:REF>
@@ -44077,7 +44078,7 @@ Mediador (para celda)
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">78</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">79</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLClass" guid="RC4BGl5PREu0rupQdzLZwQAA">
 <XPD:ATTR name="Name" type="string">Personaje</XPD:ATTR>
 <XPD:ATTR name="IsAbstract" type="boolean">True</XPD:ATTR>
@@ -46649,6 +46650,7 @@ Mediador (para celda)
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[72]" type="UMLClass" guid="JpWx8Ryuo0esG63ojOg6bAAA">
 <XPD:ATTR name="Name" type="string">Mediador</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">interface</XPD:ATTR>
 <XPD:ATTR name="IsAbstract" type="boolean">True</XPD:ATTR>
 <XPD:REF name="Namespace">RbNYqtwCK0GVRVO7JbkNnAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -46679,10 +46681,12 @@ Mediador (para celda)
 <XPD:ATTR name="Name" type="string">quitarColega</XPD:ATTR>
 <XPD:REF name="Owner">JpWx8Ryuo0esG63ojOg6bAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#Associations" type="integer">3</XPD:ATTR>
+<XPD:ATTR name="#Associations" type="integer">5</XPD:ATTR>
 <XPD:REF name="Associations[0]">sbaskJbOrEG38zCTGvqAHgAA</XPD:REF>
 <XPD:REF name="Associations[1]">TwfqIG9V2kGdxsBZDN7D1QAA</XPD:REF>
 <XPD:REF name="Associations[2]">gOCyFBqNeUCVEnTCNtQq0wAA</XPD:REF>
+<XPD:REF name="Associations[3]">Q/WAMBZuIEeYT3MNn9E7DgAA</XPD:REF>
+<XPD:REF name="Associations[4]">J7iP92obDUaxNdr/iEIx7QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[73]" type="UMLRealization" guid="YeHVODTOjEyF7u7fH6RwbAAA">
 <XPD:REF name="Namespace">RbNYqtwCK0GVRVO7JbkNnAAA</XPD:REF>
@@ -46751,6 +46755,18 @@ Mediador (para celda)
 <XPD:REF name="Views[1]">f2UhpPXpBkafzsgvNUWCkAAA</XPD:REF>
 <XPD:REF name="Views[2]">MOAyCSS4CUqVC/yD1/lP7wAA</XPD:REF>
 <XPD:REF name="Views[3]">Yh1/l4fxaUmtx0wH8wFHnwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[78]" type="UMLAssociation" guid="D9hXoPD0SU2YaHD9Efw9UQAA">
+<XPD:REF name="Namespace">RbNYqtwCK0GVRVO7JbkNnAAA</XPD:REF>
+<XPD:ATTR name="#Connections" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Connections[0]" type="UMLAssociationEnd" guid="Q/WAMBZuIEeYT3MNn9E7DgAA">
+<XPD:REF name="Association">D9hXoPD0SU2YaHD9Efw9UQAA</XPD:REF>
+<XPD:REF name="Participant">JpWx8Ryuo0esG63ojOg6bAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="J7iP92obDUaxNdr/iEIx7QAA">
+<XPD:REF name="Association">D9hXoPD0SU2YaHD9Efw9UQAA</XPD:REF>
+<XPD:REF name="Participant">JpWx8Ryuo0esG63ojOg6bAAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
